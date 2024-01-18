@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132676229720",
+    "project_id": "event-management-252b8",
+    "storage_bucket": "event-management-252b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132676229720:android:613b48e590cea8862d082d",
+        "android_client_info": {
+          "package_name": "com.example.event_sports"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCyRqikwT7IKHKuMSPFNsC423exdSKFHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
